@@ -39,3 +39,7 @@ doc/_build
 
 # Other
 .python-version
+
+# Added:
+.aider*
+.cache_ggshield
